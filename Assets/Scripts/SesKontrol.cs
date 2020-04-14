@@ -1,0 +1,32 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class SesKontrol : MonoBehaviour
+{
+    public AudioClip ziplama;
+    public AudioClip altin;
+    public AudioClip oyunBitti;
+
+    AudioSource audioSource;
+    void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
+
+    public void ZiplamaSes()
+    {
+        audioSource.clip = ziplama;
+        audioSource.Play();
+    }
+    public void AltinSes()
+    {
+        audioSource.clip = altin;
+        audioSource.Play();
+    }
+    public void Oyunbittises()
+    {
+        audioSource.clip = oyunBitti;
+        audioSource.Play();
+    }
+}

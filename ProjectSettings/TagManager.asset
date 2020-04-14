@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ayak
+  - Platform
+  - "zaral\u0131platform"
+  - Olum
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arkaplan
+    uniqueID: 801046589
+    locked: 0
+  - name: Gezegen
+    uniqueID: 130274949
+    locked: 0
+  - name: Player
+    uniqueID: 1934995969
+    locked: 0
+  - name: Platform
+    uniqueID: 3686643041
+    locked: 0
+  - name: UI
+    uniqueID: 1216067259
+    locked: 0
+  - name: "Alt\u0131n"
+    uniqueID: 2472984681
+    locked: 0
